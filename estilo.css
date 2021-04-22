@@ -1,0 +1,49 @@
+#cabecera{
+    background:white;;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.destacado{
+    background: blue;
+    color:white;
+    padding: 10px;
+}
+
+.otro{
+    background: red;
+    margin: 10px;
+}
+
+#parr1{
+    font-size: 20px;
+    margin: 10px
+}
+
+#parr2{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#titulo{
+    font-size: 40px;
+    margin: 10px;
+}
+#sub{
+    font-size: 30px;
+    padding: 10px;
+}
+#parr3{
+    color: white;
+    width: 800px;
+    float: right;
+    font-size: 20px;
+    margin: 10px;
+}
+#parr4{
+    color: white;
+    width: 950px;
+    float: right;
+    font-size: 20px;
+    padding: 10px;
+}
